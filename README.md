@@ -19,7 +19,7 @@ Bank App *Bank Of Arshat* is a web application that simulates banking operations
 * A Customer can Login.
 * A Customer can create multiple accounts.
 * A Customer can Apply Transactions such as Withdraw/Deposit.
-* A Cutomer can view his Transactions.
+* A Cutomer can view  Transactions of a particular account.
  
 
 ### Create a GitHub account
@@ -73,6 +73,4 @@ Bank App *Bank Of Arshat* is a web application that simulates banking operations
 * This will launch STS.
 * After launching right click on the STS icon in the taskbar and select 'Pin to Taskbar' which will make the STS icon permanently available in taskbar and can be opened instantly using this icon instead of using the start menu or navigating to the folder.
 
-## Usage
 
-> Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
