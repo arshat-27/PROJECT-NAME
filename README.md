@@ -20,6 +20,9 @@ Bank App *Bank Of Arshat* is a web application that simulates banking operations
 * A Customer can create multiple accounts.
 * A Customer can Apply Transactions such as Withdraw/Deposit.
 * A Cutomer can view  Transactions of a particular account.
+* A Employee can log-in.
+* A Employee can view customers.
+* A Employee can view customers accountlist.
  
 
 ### Create a GitHub account
