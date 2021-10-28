@@ -80,4 +80,24 @@
 * This will launch STS.
 * After launching right click on the STS icon in the taskbar and select 'Pin to Taskbar' which will make the STS icon permanently available in taskbar and can be opened instantly using this icon instead of using the start menu or navigating to the folder.
 
+### Check Angular and Node JS installation
+Run the following commands in command prompt.
+* Node JS
+  node -v
+* Angular
+  ng --version
+* If any one of it is already installed. It is recommended to install the new version after uninstalling Node JS.
+
+ 
+### Install Angular
+* Open command prompt
+* Execute the following command to install angular. This will take a while. Await till it completes.
+npm install -g @angular/cli
+
+### Install Node JS
+* Go to https://nodejs.org/en/, download the “Recommended For Most Users” version and install it.
+* Open command prompt and run the command “node -v” to check if it is installed correctly
+
+
+
 
