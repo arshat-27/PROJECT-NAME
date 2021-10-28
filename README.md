@@ -1,28 +1,32 @@
 # Project Name
-  Bank App
+  Sar-x Application
 
 ## Project Description
 
-Bank App *Bank Of Arshat* is a web application that simulates banking operations. A customer can apply for an account, view their balance, and make withdrawals and deposits. An employee can approve or deny accounts and view account balances for their customers.
+*Sar-x* is a web application that simulates booking operations. A customer can Book Tickets for a Space-Flight,Book Tickets of space room, and cancel the bookings.
 
 ## Technologies Used
 
 * Java  
 * Mysql
-* Html
-* CSS 
-* JavaScript 
+* AWS
+* Html 
+* Css
+* TypeScript
+* Angular
+* Spring Data
+* Spring Boot
+* Spring AOP
+* Spring Framework
 
 
 ## Features
 * A Customer can sign-up.
 * A Customer can Login.
-* A Customer can create multiple accounts.
-* A Customer can Apply Transactions such as Withdraw/Deposit.
-* A Cutomer can view  Transactions of a particular account.
-* A Employee can log-in.
-* A Employee can view customers.
-* A Employee can view customers accountlist.
+* A Customer can Book Space-Flight Tickets.
+* A Customer can Book Space-Rooms.
+* A Cutomer can view  his/her Bookings .
+* A Customer can cancel his/her Bookings.
  
 
 ### Create a GitHub account
